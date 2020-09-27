@@ -3,7 +3,7 @@ url: 'https://jrobt.github.io'
 description: My CV
 theme_skin: ceramic
 chrome_mobile_color: '#4B6A78'
-analytics: UA-83979019-1
+analytics: 'UA-179123267-1'
 sass:
   sass_dir: _sass
   style: compressed
