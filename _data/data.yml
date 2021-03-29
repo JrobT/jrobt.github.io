@@ -75,13 +75,13 @@ technicals:
   toolset:
     - name: Programming, Software Development, Agile
       level: 98%
-    - name: Python, Django, pytest, selenium
+    - name: Python, Django, JQuery, Angular, pytest
       level: 95%
     - name: Computer Vision, APIs, Web Development
       level: 90%
-    - name: Ansible, Docker, GeoSpatial, Vagrant
+    - name: Ansible, Docker, GeoSpatial, Vagrant, Vue.js
       level: 70%
-    - name: Keras, TensorFlow, OpenCV
+    - name: Keras, TensorFlow, OpenCV, pandas
       level: 65%
 skills:
   title: Non-Technical Skills
