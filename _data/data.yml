@@ -3,14 +3,14 @@ sidebar:
   name: Jack Trute
   tagline: Software Developer
   avatar: profile.png
-  website: 'https://truteordare.co.uk'
+  # website:
   # email:
   # phone:
   # linkedin:
   # stack-overflow:
   github: 'JrobT'
-  twitter: '@truteordare'
-  goodreads: '59643215-jack'
+  # twitter:
+  # goodreads:
   certificates:
     - name: Certified ScrumMaster
       organisation: Scrum Alliance
@@ -49,9 +49,9 @@ experiences:
         Following our excellent record, SCISYS was acquired by CGI in 2020.
         I continued to work with a reputable government department to build
         a product helping to manage changeable, quality-assured data throughout
-        the UK. I built a RESTful API to interact with SQL queries and wrote
-        automated tests, while also contributing toward pipeline infrastructure
-        in Microsoft Azure.
+        the UK. I also worked on various projects for different departments
+        which made use of a Django/Python and JavaScript stack deployed into
+        AWS and Azure.
     - role: Software Engineer
       time: 2018 - 2020
       company: SCISYS (Enterprise Solutions and Defence), Chippenham
@@ -78,11 +78,11 @@ technicals:
     - name: Python, Django, pytest, selenium
       level: 95%
     - name: Computer Vision, APIs, Web Development
-      level: 88%
+      level: 90%
     - name: Ansible, Docker, GeoSpatial, Vagrant
-      level: 80%
+      level: 70%
     - name: Keras, TensorFlow, OpenCV
-      level: 75%
+      level: 65%
 skills:
   title: Non-Technical Skills
   toolset:
