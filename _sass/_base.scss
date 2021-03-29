@@ -1,6 +1,6 @@
 /* ======= Base ======= */
 body {
-  font-family: "Roboto Mono", sans-serif;
+  font-family: "Roboto Mono", monospace;
   color: $text-color-secondary;
   background: $smoky-white;
   font-size: 14px;
@@ -268,10 +268,7 @@ p {
 .tree {
   position: relative;
   background: white;
-  margin-top: 20px;
-  padding: 30px;
   font-family: "Roboto Mono", monospace;
-  font-size: 0.85rem;
   font-weight: 400;
   line-height: 1.5;
   color: #212529;
