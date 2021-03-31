@@ -39,7 +39,7 @@ education:
         - Football, Electronics & Computer Science Society Fundraising Society (RAG)
     - degree: A-Levels in Maths, Computing, and Economics
       university: New College, Swindon
-      time: 2015 - 2018
+      time: 2013 - 2015
       details: |
 experiences:
     - role: Consultant - Software Developer
@@ -49,9 +49,14 @@ experiences:
         Following our excellent record, SCISYS was acquired by CGI in 2020.
         I continued to work with a reputable government department to build
         a product helping to manage changeable, quality-assured data throughout
-        the UK. I also worked on various projects for different departments
+        the UK on a .NET stack. This involved building a large API with a full
+        body of automated tests.
+        
+        I also worked on various projects for different departments
         which made use of a Django/Python and JavaScript stack deployed into
-        AWS and Azure.
+        AWS and Azure with automated testing using pytest and selenium. I
+        preferred this stack and I implemented most of the features for CGI's
+        internal IP in this area.
     - role: Software Engineer
       time: 2018 - 2020
       company: SCISYS (Enterprise Solutions and Defence), Chippenham
@@ -83,6 +88,8 @@ technicals:
       level: 70%
     - name: Keras, TensorFlow, OpenCV, pandas
       level: 65%
+    - name: .NET, C++, Java
+      level: 50%
 skills:
   title: Non-Technical Skills
   toolset:
@@ -90,14 +97,15 @@ skills:
     - name: Desire to Learn
     - name: Hard-working
     - name: Logical Thinker
+    - name: Documenter
 other-experiences:
   - role: Student Mentor
     time: 2016 - 2017
     company: The University of Southampton
     details: |
       - A Student Mentor for the ECS Summer School
-      - Lived with students for a week, mentoring them through various tutorials
-      and activities
+      - Lived with students for a week in 2016 and 2017, mentoring them through
+      various tutorials and activities
   - role: Technical Support
     time: 2008 - 2014
     company: Wyvern Theatre, Theatre Square, Swindon
